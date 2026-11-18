@@ -1,0 +1,9 @@
+Pretendard — Copyright (c) 2021 Kil Hyung-jin (https://github.com/orioncactus/pretendard)
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+https://openfontlicense.org
+
+pfsans-*.woff2 는 Pretendard 에서 이 사이트가 쓰는 글자만 추린 서브셋이다(이름을 PFSans 로 바꿨다).
+
+Instrument Serif — Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+disp-*.woff2 는 영문 이름·섹션 낱말에 쓰는 라틴 글자만 추린 서브셋이다(가변 축은 한 값으로 고정).
